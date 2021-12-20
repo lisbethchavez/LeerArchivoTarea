@@ -1,0 +1,3 @@
+Calificación: 2/3
+No ha puesto el textbox para mostrar el archivo
+Se cuelga cuando hago clic en el botón que lee el archivo
